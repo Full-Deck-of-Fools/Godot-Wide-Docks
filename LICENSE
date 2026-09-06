@@ -1,0 +1,27 @@
+FDOF Tooling Attribution License 1.0
+
+Copyright (c) 2026 FDOF (Full Deck of Fools)
+
+Permission is granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
+
+1. Ordinary project use
+
+The Software may be used as an editor, development, workflow, accessibility, or production aid without requiring visible credit in any game, application, media, asset, or other project created with or alongside the Software.
+
+2. Tooling redistribution and derivative tooling
+
+If the Software, a modified version of the Software, or a substantial portion of its implementation is redistributed as part of another editor, plugin, development tool, workflow tool, SDK, toolkit, authoring system, or similar tooling product, that tooling product must provide visible credit to:
+
+FDOF (Full Deck of Fools)
+
+The credit may appear in an About screen, Credits screen, documentation, plugin/addon information page, acknowledgements file, repository README, or another comparably visible location associated with the tooling product.
+
+3. Source and license notice
+
+Redistributions of the Software or modified versions of the Software must retain this copyright notice and this license text.
+
+4. No endorsement
+
+Use of the FDOF or Full Deck of Fools name for attribution does not imply endorsement, sponsorship, certification, or affiliation.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
