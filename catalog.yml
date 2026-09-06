@@ -1,0 +1,19 @@
+name: Wide Docks
+repository_name: Godot-Wide-Side-Panels
+repository_url: https://github.com/Full-Deck-of-Fools/Godot-Wide-Side-Panels
+version: 1.0.0
+kind: Godot Editor Plugin
+maturity: Production Ready
+taxonomy:
+  - Godot
+  - Editor
+  - Mobile
+  - Accessibility
+  - Production Ready
+primary_platform: Android Editor
+production_baseline: Godot 4.7.2 stable
+license: FDOF Tooling Attribution License 1.0
+install_path: addons/wide_docks
+summary: >
+  Removes the practical side-dock width limit on narrow Godot editor layouts
+  while preserving native divider interaction.

@@ -1,0 +1,41 @@
+name: Bug report
+description: Report a Wide Docks behavior or compatibility problem.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: input
+    id: godot
+    attributes:
+      label: Godot version
+      placeholder: "4.7.2.stable.official"
+    validations:
+      required: true
+  - type: input
+    id: platform
+    attributes:
+      label: Platform/device
+      placeholder: "Android tablet / Windows / Linux / etc."
+    validations:
+      required: true
+  - type: dropdown
+    id: boundary
+    attributes:
+      label: Divider/boundary
+      options:
+        - Left side of center workspace
+        - Right side of center workspace
+        - Both
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Reproduction steps
+    validations:
+      required: true
+  - type: textarea
+    id: errors
+    attributes:
+      label: Editor errors/logs
+      description: Paste relevant Godot editor errors if any.

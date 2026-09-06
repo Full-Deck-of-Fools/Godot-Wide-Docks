@@ -1,0 +1,17 @@
+; Engine configuration file.
+; Development harness for Wide Docks. Asset-store exports exclude this file.
+
+config_version=5
+
+[application]
+
+config/name="Wide Docks Development"
+
+[editor_plugins]
+
+enabled=PackedStringArray("res://addons/wide_docks/plugin.cfg")
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"

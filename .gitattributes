@@ -1,0 +1,6 @@
+* text=auto eol=lf
+
+# Godot Asset Library / Store downloads only need the installable addon.
+/** export-ignore
+/addons !export-ignore
+/addons/** !export-ignore
