@@ -45,4 +45,4 @@ See [LICENSE](LICENSE) for the full terms.
 
 ## Repository
 
-https://github.com/Full-Deck-of-Fools/Godot-Wide-Side-Panels
+https://github.com/Full-Deck-of-Fools/Godot-Wide-Docks

@@ -22,7 +22,7 @@ The implementation relies on internal editor node names (`DockHSplitMain` and
 Godot version.
 
 Project documentation:
-https://github.com/Full-Deck-of-Fools/Godot-Wide-Side-Panels
+https://github.com/Full-Deck-of-Fools/Godot-Wide-Docks
 
 Attribution:
 - No credit is required in games/projects merely created with Wide Docks.
